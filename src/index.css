@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&family=PT+Sans&display=swap');
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 h1,
 h2,
 h3,
